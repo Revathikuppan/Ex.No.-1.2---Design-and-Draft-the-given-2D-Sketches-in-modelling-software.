@@ -36,7 +36,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
-<img width="436" alt="EX 1 2 GITT" src="https://github.com/Revathikuppan/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/144870694/7747b90c-8853-4392-89a3-7f4091e5ba10">
+<img width="519" alt="Ex 1 2 png" src="https://github.com/Revathikuppan/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/144870694/bbb742f8-8c42-46e6-abbb-0733b83ad84b">
 
  
  ## RESULT
